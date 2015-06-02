@@ -1,6 +1,6 @@
 {
-  "name": "davinc-shadergraph",
-  "version": "0.0.1",
+  "name": "davinci-shadergraph",
+  "version": "1.0.0",
   "homepage": "https://github.com/geometryzen/davinci-shadergraph",
   "authors": [
     "David Holmes <david.geo.holmes@gmail.com>"
