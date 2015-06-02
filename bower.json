@@ -1,7 +1,8 @@
 {
   "name": "davinci-shadergraph",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/geometryzen/davinci-shadergraph",
+  "main": "ShaderGraph-core.min.js",
   "authors": [
     "David Holmes <david.geo.holmes@gmail.com>"
   ],
