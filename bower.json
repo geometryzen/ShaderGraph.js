@@ -1,0 +1,19 @@
+{
+  "name": "ShaderGraph.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/geometryzen/ShaderGraph.js",
+  "authors": [
+    "David Holmes <david.geo.holmes@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.8.3"
+  }
+}
