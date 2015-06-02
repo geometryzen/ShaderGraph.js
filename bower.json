@@ -1,7 +1,7 @@
 {
-  "name": "ShaderGraph.js",
-  "version": "0.0.0",
-  "homepage": "https://github.com/geometryzen/ShaderGraph.js",
+  "name": "davinc-shadergraph",
+  "version": "0.0.1",
+  "homepage": "https://github.com/geometryzen/davinci-shadergraph",
   "authors": [
     "David Holmes <david.geo.holmes@gmail.com>"
   ],
@@ -10,6 +10,8 @@
     "**/.*",
     "node_modules",
     "bower_components",
+    "misc",
+    "src",
     "test",
     "tests"
   ],
